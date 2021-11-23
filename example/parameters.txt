@@ -1,0 +1,2 @@
+inputGingr	parsnp.ggr
+outputSNP	parsnp.snps
